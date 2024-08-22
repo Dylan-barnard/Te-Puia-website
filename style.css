@@ -25,7 +25,7 @@ header{
 
 img{
     width: 100%;
-    border-radius: 5px;
+    border-radius: 5px; 
 }
 
 
@@ -47,6 +47,9 @@ img{
 }
 .logo{
     background-color: whitesmoke;
-    height: 10%;
-    width: 10%;
+    height: 8%;
+    width: 8%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
 }
