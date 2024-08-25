@@ -1,5 +1,6 @@
 h1{
-    color: whitesmoke;
+    color: rgb(49, 38, 38);
+    background-color: #B3B3B3;
     position: absolute;
     text-align: center;
     top: 180px;
@@ -39,7 +40,7 @@ img{
 }
 
 .hero-image{
-    background-image: url("Te-Puia-Resources/20240626_111235.jpg") ;
+    background-image: url("Te-Puia-Resources/20240626_111235.jpg");
     height: 352px;
     background-position: center;
     background-repeat: no-repeat;
@@ -52,4 +53,11 @@ img{
     position: absolute;
     left: 0px;
     top: 0px;
+}
+.hero-image-2{
+    background-image: url("Te-Puia-Resources/20240626_104441.jpg") ;
+    height: 325px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
