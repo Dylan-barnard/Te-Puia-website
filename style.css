@@ -1,11 +1,14 @@
 h1{
-    color: rgb(49, 38, 38);
+    color: rgb(0, 0, 0);
     background-color: #B3B3B3;
     position: absolute;
     text-align: center;
     top: 180px;
     width: 100%;
     font-size: 4rem;
+}
+h2{
+    text-decoration: underline;
 }
 
 body{
@@ -41,7 +44,21 @@ img{
 
 .hero-image{
     background-image: url("Te-Puia-Resources/20240626_111235.jpg");
-    height: 352px;
+    height: 480px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-image-2{
+    background-image: url("Te-Puia-Resources/20240626_104441.jpg") ;
+    height: 480px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-image-3{
+    background-image: url("Te-Puia-Resources/20240626_103151.jpg");
+    height: 480px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -53,11 +70,4 @@ img{
     position: absolute;
     left: 0px;
     top: 0px;
-}
-.hero-image-2{
-    background-image: url("Te-Puia-Resources/20240626_104441.jpg") ;
-    height: 325px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
