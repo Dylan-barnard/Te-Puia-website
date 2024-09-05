@@ -11,6 +11,13 @@ h2{
     text-decoration: underline;
 }
 
+a{
+    background-color: #ffff;
+    text-decoration: none;
+    margin: 10px;
+    font-size: large;
+}
+
 body{
     background-color: #aab6ad;
     text-align: center;
@@ -70,4 +77,5 @@ img{
     position: absolute;
     left: 0px;
     top: 0px;
+    text-align: left;
 }
